@@ -15,7 +15,7 @@ La página de sostenedores habilitados se encuentra en la siguiente URL:
 https://www.supereduc.cl/sostenedores-habilitados/
 
 ## 2. Ejecución de scripts
-El repositorio incluye un script que te permite descargar y procesar los datos directamente desde la página web. 
+El repositorio incluye 2 scripts (.ipynb y .py) que te permitirán descargar y procesar los datos directamente a partir de una función que extrae el texto en PDF y luego ordena la información en una matriz de datos descargable.
 
 ## 3. Repositorio en Google Colab
 
