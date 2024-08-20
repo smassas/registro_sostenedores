@@ -2,7 +2,8 @@
 
 Este repositorio contiene scripts y recursos para acceder y utilizar la información disponible en la página de sostenedores habilitados de la Superintendencia de Educación (Supereduc) de Chile.
 
-Descripción
+## Descripción
+
 La Superintendencia de Educación de Chile pone a disposición pública un listado de sostenedores habilitados, el cual puede ser consultado en su página web oficial. Esta información es valiosa para instituciones educativas, investigadores, y cualquier persona interesada en conocer el estado de habilitación de los sostenedores en Chile.
 
 El objetivo de este repositorio es proporcionar una serie de herramientas y guías para acceder, procesar y analizar los datos de sostenedores habilitados, facilitando su integración en proyectos de análisis de datos o aplicaciones web.
